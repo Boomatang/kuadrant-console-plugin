@@ -1,7 +1,6 @@
 {
     "skip": [ 
-        "^https?://localhost:(9000|9001)",
-        "www\\.google\\.com"
+        "^https?://localhost:(9000|9001)"
     ],
     "recurse": true,
     "directoryListing": true,
